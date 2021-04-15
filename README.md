@@ -1,4 +1,4 @@
-# API connection checker script
+# On-premises Data Gateway checker script
 **This repository contains a PowerShell script you can run to list all On-premises Data Gateways used by Logic App API connections and save to a CSV file.** For more  information on finding correlations between Logic App API connections and On-premises Data Gateways, please visit [my blog here](https://techcommunity.microsoft.com/t5/integrations-on-azure/find-out-which-on-premises-data-gateways-are-used-by-which-api/ba-p/2272020).
 
 ## Objective:
