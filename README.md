@@ -48,3 +48,5 @@ The CSV file will contain all API connection resources along with the OPDGs they
   
     <img src="https://github.com/joeshen117/connectionCheckerScript/blob/main/images/azConnect.png?raw=true" width="700">
   
+## Blog:
+For more  information on finding correalations between API connections and On-premises Data Gateways, please visit [my blog here](https://techcommunity.microsoft.com/t5/integrations-on-azure/find-out-which-on-premises-data-gateways-are-used-by-which-api/ba-p/2272020).
