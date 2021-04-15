@@ -1,5 +1,5 @@
 
-# Login to your Azure Account:
+# Login to your Azure Account: (Comment out when running in Azure Cloud Shell)
 Connect-AzAccount
 
 # Put in your own subscription name:
